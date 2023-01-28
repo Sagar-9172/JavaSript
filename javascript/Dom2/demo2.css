@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+    background-color:goldenrod ;
+    height: 50px;
+    width: 100px;
+}
+
+p {
+    color:purple;
+}
+
+.zero {
+    color:blue;
+    background-color:yellow;
+}
+
+.two {
+    color: brown;
+    background-color:green;
+}
+
+#name {
+    color:aqua
+} 
