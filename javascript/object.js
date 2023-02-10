@@ -192,10 +192,24 @@ console.log(s)
 let newObject = new Object()
 console.log(newObject)            // {}
 console.log(typeof (newObject))   // object
+// '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+let sameer = Object.create({})
+console.log(sameer)
+
+// sameer.firstName = "sameer"
+// sameer.lastName = "jaiswal"
+// sameer.age = 28
+// sameer.rollNo = 77
+// sameer.skills = ["python","css","html", "javascript"]
+// sameer.display = function(){
+//     console.log(this.firstName + this.lastName)
+// }
+
+//console.log(sameer)
 
 
 //-----------------------------------------------------
-// 3. By using object constructor  ===>
+//                                            3. By using object constructor  ===>
 
 class ss {
           constructor(fname, className, age, rollNo) {
