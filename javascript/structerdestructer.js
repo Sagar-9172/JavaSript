@@ -23,7 +23,7 @@ let students = {
 
 }
 let { firstname: c1, lastname: c2 } = students
-console.log(c1)//vishvajit
+console.log(c1)//vishvaji
 
 
 // program 4
