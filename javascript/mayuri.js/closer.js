@@ -161,3 +161,4 @@ function add() {
 let aa = add()
 console.log(aa) //function
 aa()
+console.log("sagar")
